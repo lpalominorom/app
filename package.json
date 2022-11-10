@@ -16,7 +16,7 @@
     "@fortawesome/free-solid-svg-icons": "^5.9.0",
     "@fortawesome/react-fontawesome": "^0.1.4",
     "isomorphic-fetch": "^2.2.1",
-    "next": "^7.0.1",
+    "next": "^13.0.2",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "semistandard": "^13.0.1"
